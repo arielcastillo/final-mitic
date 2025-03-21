@@ -1,5 +1,3 @@
-Aquí tienes el contenido en formato markdown:
-
 # Comprensión del Negocio
 
 ## Actividades clave:
