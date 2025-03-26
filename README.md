@@ -369,13 +369,11 @@ La principal causa probable es el cambio estructural en las ventas debido a la p
 
 ## Hallazgos Clave
 
-1. **Canal de Ventas**: El canal online (tienda ID 0) representa aproximadamente el 90% de los ingresos entre las principales tiendas.
+1. **Estacionalidad**: Existe un patrón claro con caídas en abril y picos en diciembre-febrero.
 
-2. **Estacionalidad**: Existe un patrón claro con caídas en abril y picos en diciembre-febrero.
+2. **Categorías de Productos**: "Computers" domina en todos los mercados, pero existen preferencias regionales importantes.
 
-3. **Categorías de Productos**: "Computers" domina en todos los mercados, pero existen preferencias regionales importantes.
-
-4. **Segmentos de Clientes**: El segmento "En riesgo" es el más numeroso, lo que requiere estrategias de retención.
+3. **Segmentos de Clientes**: El segmento "En riesgo" es el más numeroso, lo que requiere estrategias de retención.
 
 ## Recomendaciones
 
